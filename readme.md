@@ -4,7 +4,7 @@
 
 | № | Ссылка |
 |---|--------|
-| 1 | [Открыть]() |
+| 1 | [Открыть](https://github.com/kseniyastegantseva/PCPL_RK1) |
 
 
 </table>
